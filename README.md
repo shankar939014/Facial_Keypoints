@@ -10,10 +10,10 @@ In this project, you’ll combine your knowledge of computer vision techniques a
 
 Clone the below repository to get the data .
 
-'''
+```
 git clone https://github.com/udacity/P1_Facial_Keypoints.git
 
-'''
+```
 
 The project will be broken up into a few main parts in four Python notebooks, **only Notebooks 2 and 3 (and the `models.py` file) will be graded**:
 
